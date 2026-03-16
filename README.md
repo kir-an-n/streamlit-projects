@@ -16,3 +16,6 @@ Building AI powered web applications — currently applying these skills to Bill
 📈 Status
 Ongoing — this repo grows as I learn.
 
+# Learning Streamlit to build fast interactive AI apps
+# Applying directly to BillSmart project
+# Covers layouts, widgets, data display and deployment
